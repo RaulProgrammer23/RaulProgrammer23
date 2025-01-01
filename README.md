@@ -110,5 +110,7 @@ Here are some ideas to get you started:
   <hr>
 <hr>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 -----
