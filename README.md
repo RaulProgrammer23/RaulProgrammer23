@@ -23,13 +23,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=basemax&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=basemax&show_icons=true&locale=en" alt="basemax">
 
 ------
