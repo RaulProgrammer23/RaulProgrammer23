@@ -54,11 +54,11 @@ Here are some ideas to get you started:
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> React
+  <a href="https://reactjs.org/" target="_blank"> 
     <img alt="" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
   &emsp;
-  <a href="  https://angular.dev/" target="_blank"> Angular
+  <a href="  https://angular.dev/" target="_blank"> 
     <img alt="" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   </a>
 </p>
