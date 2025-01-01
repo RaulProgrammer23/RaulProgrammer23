@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
 </p>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🛠️ My Skills
 
