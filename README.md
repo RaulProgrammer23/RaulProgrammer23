@@ -55,11 +55,11 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank"> React
-    <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img alt="" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
   &emsp;
   <a href="  https://angular.dev/" target="_blank"> Angular
-    <img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
+    <img alt="" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   </a>
 </p>
 ### 👉 Databases & Cloud Hosting
