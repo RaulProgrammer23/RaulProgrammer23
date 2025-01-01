@@ -34,6 +34,9 @@ Here are some ideas to get you started:
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+  <a href="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Frontend Development
