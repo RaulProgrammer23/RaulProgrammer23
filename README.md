@@ -35,8 +35,8 @@ Here are some ideas to get you started:
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
    &emsp;
-  <a href="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-    <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg?logo=php&logoColor=white"/>
+  <a href="https://www.vectorlogo.zone/logos/java/java-vertical.svg">
+    <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg?logo=php&logoColor=white"/>
   </a>
 </p>
 
