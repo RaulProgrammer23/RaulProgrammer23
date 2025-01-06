@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ------
 
 
-## 🛠️ My Skills
+## 🛠️ My Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### 👉 Programming languages
 
