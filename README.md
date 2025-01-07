@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Academyc Skills Bases 🏫
 <pre>Java (Netbeans) | Mysql (HeidiSql / WorkBench) ></pre>
-<pre>PhP,Laravel && JavaScript,Angular,Typescript,Jquery,Ajax - Visual Studio Code | Mysql(PhPMyAdmin)</pre>
+<pre>[ Java, PhP, Laravel ] && [ JavaScript, Angular, Typescript, Jquery, Ajax ] - Visual Studio Code | Mysql(PhPMyAdmin)</pre>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
