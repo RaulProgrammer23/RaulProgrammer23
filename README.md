@@ -97,6 +97,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br/>
 
+
+## Laboral Experience 👨‍💻🌐🌏
+<pre> Java / Maven / Tomcat / Jboss / SpringBoot / Hibernate / Oracle SQL / Flash / Depuration / ISSUES / Jira / Microsoft Teams </pre>
+
 ## Academyc Skills Bases 🏫
 <pre>Java (Netbeans) | Mysql (HeidiSql / WorkBench) ></pre>
 <pre>[ Java, PhP, Laravel ] && [ JavaScript, Angular, Typescript, Jquery, Ajax ] - Visual Studio Code | Mysql(PhPMyAdmin)</pre>
