@@ -90,6 +90,34 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### 👉 Backend Development
 <pre>Java-SpringBoot , PhP-Laravel, NodeJS, Python</pre>
+
+<p align="left">
+  &emsp;
+  <a href="https://dev.java/" target="_blank">
+    <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://spring.io/" target="_blank"> 
+    <img alt="SpringBoot" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.php.net/" target="_blank"> 
+    <img alt="PhP" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://laravel.com/" target="_blank"> 
+    <img alt="Laravel" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/es" target="_blank"> 
+    <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
+  </a>
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"/>
+  </a>
+</p>
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
