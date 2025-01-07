@@ -61,10 +61,22 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwinCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg?logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img alt="TailwinCSS" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="" target="_blank"> 
+    <img alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
