@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## 🛠️ My Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 # 💻 Tech Stack:
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 👉 Frontend Development
 
 <pre>Html5, CSS3{TailwinCss, SASS, Bootstrap} , JS, TYPESCRIPT, REACT, ANGULAR</pre>
@@ -69,6 +69,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <img alt="" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   </a>
 </p>
+
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ### 👉 Backend Development
 <pre>Java-SpringBoot , PhP-Laravel, NodeJS, Python</pre>
