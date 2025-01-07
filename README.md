@@ -97,6 +97,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br/>
 
+## Academyc Bases
+<pre>Java - Netbeans | Mysql<HeidiSql / WorkBench ></pre>
+<pre>JavaScript,PhP,Laravel | JavaScript,Angular, Typescript, Jquery, Ajax - Visual Studio Code | Mysql<HeidiSql / WorkBench ></pre>
+
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
 <p align="left">
   
