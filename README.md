@@ -25,8 +25,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ------
 
-## 🛠️ My Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-# 💻 Tech Stack:
+# 🛠️💻 Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 👉 Frontend Development
 
