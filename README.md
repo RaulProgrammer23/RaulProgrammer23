@@ -70,6 +70,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   </a>
 </p>
 
+### 👉 Backend Development
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
