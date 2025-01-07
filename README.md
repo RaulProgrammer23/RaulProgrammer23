@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <img alt="" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
   &emsp;
-  <a href="  https://angular.dev/" target="_blank"> 
+  <a href="https://angular.dev/" target="_blank"> 
     <img alt="" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   </a>
 </p>
