@@ -131,6 +131,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   &emsp;
 </p>
 
+<pre> Obsidian , Notion, Capcut </pre>
+
 <br/>
 
 
