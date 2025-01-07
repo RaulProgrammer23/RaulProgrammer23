@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 
 ### 👉 Backend Development
-
+<pre>Java-SpringBoot , PhP-Laravel, NodeJS, Python</pre>
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
