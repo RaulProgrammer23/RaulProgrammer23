@@ -47,6 +47,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 
 ### 👉 Frontend Development
+
+<pre>Html5, CSS3{TailwinCss, SASS, Bootstrap} , JS, TYPESCRIPT, REACT, ANGULAR</pre>
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
