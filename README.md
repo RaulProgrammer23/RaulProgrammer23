@@ -77,7 +77,7 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](#)
-- Email: [Your Email](#)
+- LinkedIn: [www.linkedin.com/in/raulcm07](#)
+- Email: [raulcavadev@gmail.com](#)
 - GitHub: [RaulProgrammer23](https://github.com/RaulProgrammer23)
 
