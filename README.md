@@ -4,7 +4,9 @@
 🎯 **Full-Stack Developer | Java, JS/TS, React, Angular | Backend & Cloud Enthusiast**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="220px"/>
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200px"/>
+  <br>
+  <i>My little coding buddy 🐱💻</i>
 </p>
 
 ---
@@ -43,14 +45,16 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
 </p>
 
-### Tools & Software
-**Git, GitHub, VS Code, Linux, Postman, Xampp, Obsidian, Notion**  
+### Tools & Productivity
+**Git, GitHub, VS Code, Linux, Postman, Xampp, Obsidian (my 2nd brain 🧠), Notion**  
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img alt="Xampp" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" height="30px">
+  <img alt="Obsidian" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Obsidian_Logo.svg" height="30px">
+  <img alt="Notion" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="30px">
 </p>
 
 ---
@@ -70,9 +74,13 @@
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fun Fact & Extras
 > "Life is full of choices… choose wisely!"  
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50px">
+<p align="center">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">  
+  <i>My coding buddy & inspiration 🐱💻</i>
+</p>
 
 ---
 
@@ -80,3 +88,4 @@
 - LinkedIn: [Your LinkedIn](#)
 - Email: [Your Email](#)
 - GitHub: [RaulProgrammer23](https://github.com/RaulProgrammer23)
+
