@@ -60,6 +60,7 @@
 - **AWS / Oracle SQL / PHP / Laravel / NodeJS**
 - **Jira / Jenkins / GitHub Copilot / Microsoft Teams**
 - Debugging, Issue Tracking, Deployment & CI/CD
+- 🔧 Monster Debugger / Soap Ui / Putty / WinSCP / sqlDeveloper / iReport / Notepad++
 
 ---
 
