@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Raul
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🎯 **Full-Stack Developer | Java, JS/TS, React, Angular | Backend & Cloud Enthusiast**  
+🎯 **Full-Stack Developer | Java, JS/TS, React, Angular | Backend & Cloud **  
 
 <p align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="220px"/>
