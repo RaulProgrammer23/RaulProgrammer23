@@ -10,7 +10,8 @@
 ---
 
 ## Consultant Experience 👨‍💻
-![mindsalt_logo_1](https://github.com/user-attachments/assets/aa62692a-4f18-4035-ba8c-83ef67e2a621)
+![result_mindsalt_logo_1](https://github.com/user-attachments/assets/1014af0b-c39c-42ab-a9d6-c5f1c2f26a9e)
+
 
 
 ## 🛠️ Tech Stack
