@@ -9,6 +9,10 @@
 
 ---
 
+## Consultant Experience 👨‍💻
+![mindsalt_logo_1](https://github.com/user-attachments/assets/aa62692a-4f18-4035-ba8c-83ef67e2a621)
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
