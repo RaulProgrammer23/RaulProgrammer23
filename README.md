@@ -15,7 +15,7 @@
 ---
 ## My personal Brans... 🏗️
 <img width="250" height="250" alt="💿 (1)" src="https://github.com/user-attachments/assets/2d5a067a-a585-4a1b-b33c-17d0f4af68b0" />
-<img width="250" height="250" alt="___2___1_-removebg-preview" src="https://github.com/user-attachments/assets/0b661f30-e53a-4421-9a0b-044892e0c3d5" />
+<img width="250" height="1024" alt="ChatGPT Image 30 ago 2025, 18_36_15 (1)" src="https://github.com/user-attachments/assets/d46ead01-2012-47fb-ae91-a3ccb2986a9a" />
 <img width="250" height="250" alt="2d3d219f-9fa1-40c7-ac10-8c6df667a0cd-removebg-preview" src="https://github.com/user-attachments/assets/85c717c1-0219-439f-aca2-e012311d3a54" />
 
 
