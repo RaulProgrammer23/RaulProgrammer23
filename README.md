@@ -15,6 +15,7 @@
 ---
 ## My personal Brans... 🏗️
 
+<img width="500" height="500" alt="💿 (1)" src="https://github.com/user-attachments/assets/c27683f5-1b25-4360-800b-6cb76e2fc554" />
 
 
 ## 🛠️ Tech Stack
