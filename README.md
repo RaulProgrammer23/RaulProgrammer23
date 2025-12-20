@@ -14,10 +14,7 @@
 
 ---
 ## My personal Brans... 🏗️
-<img width="250" height="250" alt="💿 (1)" src="https://github.com/user-attachments/assets/2d5a067a-a585-4a1b-b33c-17d0f4af68b0" />
-<img width="250" height="500" alt="💿" src="https://github.com/user-attachments/assets/f7d25d98-fad9-4c0c-a3d5-837dbf66bcf2" />
-<img width="250" height="250" alt="2d3d219f-9fa1-40c7-ac10-8c6df667a0cd-removebg-preview" src="https://github.com/user-attachments/assets/85c717c1-0219-439f-aca2-e012311d3a54" />
-
+. - .
 
 
 ## 🛠️ Tech Stack
