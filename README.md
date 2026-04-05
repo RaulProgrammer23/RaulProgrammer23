@@ -10,7 +10,7 @@
 ---
 
 ## Consultant Experience 👨‍💻
-![result_mindsalt_logo_1 (1)](https://github.com/user-attachments/assets/c35fe37a-85db-473a-b452-a25e4c0e9146)
+,,
 
 ---
 ## My personal Brans... 🏗️
